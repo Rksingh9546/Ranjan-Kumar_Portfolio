@@ -241,7 +241,7 @@ export const PROJECTS: Project[] = [
     subtitle: "Real-time Emotional Wellbeing & Sentiment Analysis Platform",
     description: "A proactive healthcare solution designed to monitor psychological trends and detect early burnout markers using deep sentiment analysis, natural language conversational sentiment logs, and adaptive wellness recommendations.",
     category: "AI & ML",
-    image: "/src/assets/images/project_mental_ai_1788767477023.jpg",
+    image: "/images/project_mental_ai_1788767477023.jpg",
     tags: ["Python", "FastAPI", "Transformers", "React.js", "Tailwind CSS", "Recharts"],
     metrics: "96.2% Emotion Detection Precision",
     features: [
@@ -260,7 +260,7 @@ export const PROJECTS: Project[] = [
     subtitle: "Automated Talent Intelligence & NLP Scoring Platform",
     description: "An intelligent applicant evaluation platform that parses multi-format resumes, extracts technical proficiencies using NLP, and ranks candidates against job descriptions using TF-IDF cosine similarity vectorization.",
     category: "AI & ML",
-    image: "/src/assets/images/project_resume_ai_1788767452676.jpg",
+    image: "/images/project_resume_ai_1788767452676.jpg",
     tags: ["Python", "FastAPI", "NLP", "React.js", "Scikit-Learn", "Tailwind CSS"],
     metrics: "94.8% Candidate Match Accuracy",
     features: [
@@ -280,7 +280,7 @@ export const PROJECTS: Project[] = [
     subtitle: "Enterprise Hospital Administration & Clinical EHR Platform",
     description: "An end-to-end enterprise hospital suite synchronizing electronic medical records (EHR), dynamic doctor shift management, multi-ward patient admission, pharmacy stock audits, and billing invoices.",
     category: "Healthcare",
-    image: "/src/assets/images/project_healthcare_1788767498565.jpg",
+    image: "/images/project_healthcare_1788767498565.jpg",
     tags: ["Django", "React.js", "MySQL", "Tailwind CSS", "REST API", "Docker"],
     metrics: "10,000+ Records Handled Seamlessly",
     features: [
@@ -299,7 +299,7 @@ export const PROJECTS: Project[] = [
     subtitle: "Modern Patient Portal & Telemedicine Consultation Hub",
     description: "A patient-first responsive clinic application streamlining doctor discovery, online appointment bookings, clinic service exploration, and digital patient communication with warm, accessible typography.",
     category: "Enterprise & Web",
-    image: "/src/assets/images/project_clinic_1788767526274.jpg",
+    image: "/images/project_clinic_1788767526274.jpg",
     tags: ["React.js", "Tailwind CSS", "Firebase", "Motion", "FastAPI"],
     metrics: "3.5x Faster Appointment Booking",
     features: [
