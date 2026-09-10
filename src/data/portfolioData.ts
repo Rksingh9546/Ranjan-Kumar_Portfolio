@@ -30,7 +30,7 @@ export const PERSONAL_INFO = {
     { label: "FastAPI & REST APIs", icon: "Zap" },
     { label: "Machine Learning & GenAi", icon: "Brain" },
   ],
- avatarImage: "/images/Ranjan_Kumar.png",
+ avatarImage: "public/images/Ranjan_Kumar.png",
 };
 
 export const NAV_ITEMS: NavItem[] = [
